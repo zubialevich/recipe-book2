@@ -35,34 +35,34 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
-tagline: 'Delicious & healthy recipes'
-description: 'A simple Jekyll theme with a photo sidebar.'
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connor-baer.github.io
-baseurl: /summer
+title: Рецепты
+tagline: 'Вкусные и полезные рецепты'
+description: 'Книга моих рецептов'
+keywords: 'рецепты'
+url: https://zubialevich.github.io
+baseurl: /recipe-book
 assets: /assets
 images: /images/
 image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
-  image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  #name: Connor Bär
+  #bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  #image: author
+  #url: https://connorbaer.co
+  #email: hello@connorbaer.co
+  #twitter: connor_baer
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/summer
+  #twitter: https://twitter.com/connor_baer
+  #instagram: https://instagram.com/connor_baer
+  #github: https://github.com/connor-baer/summer
 
 version: 2.0.0
 
 github:
-  repo: https://github.com/connor-baer/summer
+  # repo: https://github.com/connor-baer/summer
 
 # Integrations
 # typekit:              fcv7rfe
@@ -77,8 +77,8 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  # GitHub: https://github.com/connor-baer/summer
+  # Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
 
 collections:
   recipes:
