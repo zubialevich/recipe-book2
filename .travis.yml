@@ -23,7 +23,7 @@ matrix:
       gemfile: gemfile
 
   allow_failures:
-    - rvm: 'ruby-head'
+    - rvm: 'ruby-head' 
 
 before_install:
   - nvm install --lts=dubnium
