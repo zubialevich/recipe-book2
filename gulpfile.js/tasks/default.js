@@ -10,7 +10,7 @@ const runSequence = require('run-sequence');
 // 1. Default //
 
 // Default task chain: build -> (livereload or browsersync) -> watch
-gulp.task('default', ['watch']);
+// gulp.task('default', ['watch']);
 
 // 2. Setup //
 
