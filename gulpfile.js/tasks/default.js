@@ -23,5 +23,5 @@ gulp.task('setup', callback => {
 
 // Run all tasks needed for a build in defined order.
 gulp.task('build', callback => {
-  runSequence('clean', ['styles', 'scripts', 'images', 'jekyll'], callback);
+  runSequence('clean', ['styles', 'scripts', 'images'], callback);
 });
