@@ -247,9 +247,9 @@ module.exports = {
 
   // 10. Jekyll //
 
-  jekyll: {
-    src,
-    dest: dist,
-    config: '_config.yml'
-  }
+  // jekyll: {
+  //  src,
+  //  dest: dist,
+  //  config: '_config.yml'
+  //}
 };
